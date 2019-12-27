@@ -1,0 +1,10 @@
+armcmsis_cube01\wifi_wizfi360_os.o: C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\WiFi_WizFi360_Os.c
+armcmsis_cube01\wifi_wizfi360_os.o: C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\WiFi_WizFi360_Os.h
+armcmsis_cube01\wifi_wizfi360_os.o: C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h
+armcmsis_cube01\wifi_wizfi360_os.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+armcmsis_cube01\wifi_wizfi360_os.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+armcmsis_cube01\wifi_wizfi360_os.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+armcmsis_cube01\wifi_wizfi360_os.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+armcmsis_cube01\wifi_wizfi360_os.o: .\RTE\_ArmCMSIS_Cube01\RTE_Components.h
+armcmsis_cube01\wifi_wizfi360_os.o: .\RTE\CMSIS_Driver\WiFi_WizFi360_Config.h
+armcmsis_cube01\wifi_wizfi360_os.o: C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h

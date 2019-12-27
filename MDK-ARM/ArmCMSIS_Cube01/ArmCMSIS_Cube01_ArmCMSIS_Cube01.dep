@@ -1,0 +1,1188 @@
+Dependencies for Project 'ArmCMSIS_Cube01', Target 'ArmCMSIS_Cube01': (DO NOT MODIFY !)
+F (../Src/main.c)(0x5E05B34E)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\main.o --omf_browse armcmsis_cube01\main.crf --depend armcmsis_cube01\main.d)
+I (../Inc/main.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include\Driver_USART.h)(0x5C8A166C)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include\Driver_Common.h)(0x5C8A166C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB6BCE)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB6BD2)
+F (../Src/stm32f4xx_it.c)(0x5E044DE4)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_it.o --omf_browse armcmsis_cube01\stm32f4xx_it.crf --depend armcmsis_cube01\stm32f4xx_it.d)
+I (../Inc/main.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_it.h)(0x5E044D91)
+F (../Src/stm32f4xx_hal_msp.c)(0x5E044D91)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_hal_msp.o --omf_browse armcmsis_cube01\stm32f4xx_hal_msp.crf --depend armcmsis_cube01\stm32f4xx_hal_msp.d)
+I (../Inc/main.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c)(0x5E041BE5)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_hal_tim.o --omf_browse armcmsis_cube01\stm32f4xx_hal_tim.crf --depend armcmsis_cube01\stm32f4xx_hal_tim.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c)(0x5E041BE5)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_hal_tim_ex.o --omf_browse armcmsis_cube01\stm32f4xx_hal_tim_ex.crf --depend armcmsis_cube01\stm32f4xx_hal_tim_ex.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c)(0x5E041BE5)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_hal_uart.o --omf_browse armcmsis_cube01\stm32f4xx_hal_uart.crf --depend armcmsis_cube01\stm32f4xx_hal_uart.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c)(0x5E041BE5)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_hal_rcc.o --omf_browse armcmsis_cube01\stm32f4xx_hal_rcc.crf --depend armcmsis_cube01\stm32f4xx_hal_rcc.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c)(0x5E041BE5)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_hal_rcc_ex.o --omf_browse armcmsis_cube01\stm32f4xx_hal_rcc_ex.crf --depend armcmsis_cube01\stm32f4xx_hal_rcc_ex.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c)(0x5E041BE5)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_hal_flash.o --omf_browse armcmsis_cube01\stm32f4xx_hal_flash.crf --depend armcmsis_cube01\stm32f4xx_hal_flash.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c)(0x5E041BE5)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_hal_flash_ex.o --omf_browse armcmsis_cube01\stm32f4xx_hal_flash_ex.crf --depend armcmsis_cube01\stm32f4xx_hal_flash_ex.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c)(0x5E041BE5)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_hal_flash_ramfunc.o --omf_browse armcmsis_cube01\stm32f4xx_hal_flash_ramfunc.crf --depend armcmsis_cube01\stm32f4xx_hal_flash_ramfunc.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c)(0x5E041BE5)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_hal_gpio.o --omf_browse armcmsis_cube01\stm32f4xx_hal_gpio.crf --depend armcmsis_cube01\stm32f4xx_hal_gpio.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c)(0x5E041BE5)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_hal_dma_ex.o --omf_browse armcmsis_cube01\stm32f4xx_hal_dma_ex.crf --depend armcmsis_cube01\stm32f4xx_hal_dma_ex.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c)(0x5E041BE5)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_hal_dma.o --omf_browse armcmsis_cube01\stm32f4xx_hal_dma.crf --depend armcmsis_cube01\stm32f4xx_hal_dma.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c)(0x5E041BE5)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_hal_pwr.o --omf_browse armcmsis_cube01\stm32f4xx_hal_pwr.crf --depend armcmsis_cube01\stm32f4xx_hal_pwr.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c)(0x5E041BE5)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_hal_pwr_ex.o --omf_browse armcmsis_cube01\stm32f4xx_hal_pwr_ex.crf --depend armcmsis_cube01\stm32f4xx_hal_pwr_ex.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c)(0x5E041BE4)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_hal_cortex.o --omf_browse armcmsis_cube01\stm32f4xx_hal_cortex.crf --depend armcmsis_cube01\stm32f4xx_hal_cortex.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c)(0x5E041BE4)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_hal.o --omf_browse armcmsis_cube01\stm32f4xx_hal.crf --depend armcmsis_cube01\stm32f4xx_hal.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c)(0x5E041BE5)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\stm32f4xx_hal_exti.o --omf_browse armcmsis_cube01\stm32f4xx_hal_exti.crf --depend armcmsis_cube01\stm32f4xx_hal_exti.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\ARM\irq_cm4f.s)(0x5B1F300C)(--cpu Cortex-M4.fp -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include--pd "__UVISION_VERSION SETA 528" --pd "_RTE_ SETA 1" --pd "STM32F411xE SETA 1"--list irq_cm4f.lst --xref -o armcmsis_cube01\irq_cm4f.o --depend armcmsis_cube01\irq_cm4f.d)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_delay.c)(0x5C8F3FC4)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\rtx_delay.o --omf_browse armcmsis_cube01\rtx_delay.crf --depend armcmsis_cube01\rtx_delay.d)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_lib.h)(0x5C8F09B0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_c.h)(0x5C8F09B6)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_cm.h)(0x5C8F09B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB6BCE)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\os_tick.h)(0x5B616274)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (.\RTE\CMSIS\RTX_Config.h)(0x5C8F3FC4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2582A8)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_evr.h)(0x5D2582A8)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_evflags.c)(0x5C8F3FC4)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\rtx_evflags.o --omf_browse armcmsis_cube01\rtx_evflags.crf --depend armcmsis_cube01\rtx_evflags.d)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_lib.h)(0x5C8F09B0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_c.h)(0x5C8F09B6)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_cm.h)(0x5C8F09B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB6BCE)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\os_tick.h)(0x5B616274)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (.\RTE\CMSIS\RTX_Config.h)(0x5C8F3FC4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2582A8)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_evr.h)(0x5D2582A8)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_evr.c)(0x5C8F3FC4)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\rtx_evr.o --omf_browse armcmsis_cube01\rtx_evr.crf --depend armcmsis_cube01\rtx_evr.d)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_evr.h)(0x5D2582A8)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (.\RTE\CMSIS\RTX_Config.h)(0x5C8F3FC4)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2582A8)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_kernel.c)(0x5C8F3FC4)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\rtx_kernel.o --omf_browse armcmsis_cube01\rtx_kernel.crf --depend armcmsis_cube01\rtx_kernel.d)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_lib.h)(0x5C8F09B0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_c.h)(0x5C8F09B6)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_cm.h)(0x5C8F09B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB6BCE)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\os_tick.h)(0x5B616274)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (.\RTE\CMSIS\RTX_Config.h)(0x5C8F3FC4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2582A8)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_evr.h)(0x5D2582A8)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_lib.c)(0x5D2582A8)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\rtx_lib.o --omf_browse armcmsis_cube01\rtx_lib.crf --depend armcmsis_cube01\rtx_lib.d)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (.\RTE\CMSIS\RTX_Config.h)(0x5C8F3FC4)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2582A8)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_evr.h)(0x5D2582A8)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_memory.c)(0x5C8F09B0)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\rtx_memory.o --omf_browse armcmsis_cube01\rtx_memory.crf --depend armcmsis_cube01\rtx_memory.d)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_lib.h)(0x5C8F09B0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_c.h)(0x5C8F09B6)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_cm.h)(0x5C8F09B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB6BCE)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\os_tick.h)(0x5B616274)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (.\RTE\CMSIS\RTX_Config.h)(0x5C8F3FC4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2582A8)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_evr.h)(0x5D2582A8)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_mempool.c)(0x5C8F09AE)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\rtx_mempool.o --omf_browse armcmsis_cube01\rtx_mempool.crf --depend armcmsis_cube01\rtx_mempool.d)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_lib.h)(0x5C8F09B0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_c.h)(0x5C8F09B6)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_cm.h)(0x5C8F09B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB6BCE)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\os_tick.h)(0x5B616274)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (.\RTE\CMSIS\RTX_Config.h)(0x5C8F3FC4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2582A8)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_evr.h)(0x5D2582A8)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_msgqueue.c)(0x5C8F3FC4)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\rtx_msgqueue.o --omf_browse armcmsis_cube01\rtx_msgqueue.crf --depend armcmsis_cube01\rtx_msgqueue.d)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_lib.h)(0x5C8F09B0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_c.h)(0x5C8F09B6)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_cm.h)(0x5C8F09B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB6BCE)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\os_tick.h)(0x5B616274)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (.\RTE\CMSIS\RTX_Config.h)(0x5C8F3FC4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2582A8)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_evr.h)(0x5D2582A8)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_mutex.c)(0x5D2582A8)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\rtx_mutex.o --omf_browse armcmsis_cube01\rtx_mutex.crf --depend armcmsis_cube01\rtx_mutex.d)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_lib.h)(0x5C8F09B0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_c.h)(0x5C8F09B6)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_cm.h)(0x5C8F09B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB6BCE)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\os_tick.h)(0x5B616274)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (.\RTE\CMSIS\RTX_Config.h)(0x5C8F3FC4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2582A8)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_evr.h)(0x5D2582A8)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_semaphore.c)(0x5C8F09AC)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\rtx_semaphore.o --omf_browse armcmsis_cube01\rtx_semaphore.crf --depend armcmsis_cube01\rtx_semaphore.d)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_lib.h)(0x5C8F09B0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_c.h)(0x5C8F09B6)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_cm.h)(0x5C8F09B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB6BCE)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\os_tick.h)(0x5B616274)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (.\RTE\CMSIS\RTX_Config.h)(0x5C8F3FC4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2582A8)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_evr.h)(0x5D2582A8)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_system.c)(0x5C8F3FC4)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\rtx_system.o --omf_browse armcmsis_cube01\rtx_system.crf --depend armcmsis_cube01\rtx_system.d)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_lib.h)(0x5C8F09B0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_c.h)(0x5C8F09B6)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_cm.h)(0x5C8F09B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB6BCE)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\os_tick.h)(0x5B616274)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (.\RTE\CMSIS\RTX_Config.h)(0x5C8F3FC4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2582A8)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_evr.h)(0x5D2582A8)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_thread.c)(0x5D2582A8)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\rtx_thread.o --omf_browse armcmsis_cube01\rtx_thread.crf --depend armcmsis_cube01\rtx_thread.d)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_lib.h)(0x5C8F09B0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_c.h)(0x5C8F09B6)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_cm.h)(0x5C8F09B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB6BCE)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\os_tick.h)(0x5B616274)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (.\RTE\CMSIS\RTX_Config.h)(0x5C8F3FC4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2582A8)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_evr.h)(0x5D2582A8)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_timer.c)(0x5C8F3FC4)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\rtx_timer.o --omf_browse armcmsis_cube01\rtx_timer.crf --depend armcmsis_cube01\rtx_timer.d)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_lib.h)(0x5C8F09B0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_c.h)(0x5C8F09B6)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Source\rtx_core_cm.h)(0x5C8F09B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB6BCE)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\os_tick.h)(0x5B616274)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (.\RTE\CMSIS\RTX_Config.h)(0x5C8F3FC4)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2582A8)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_evr.h)(0x5D2582A8)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Source\os_systick.c)(0x5B1F300C)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\os_systick.o --omf_browse armcmsis_cube01\os_systick.crf --depend armcmsis_cube01\os_systick.d)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\os_tick.h)(0x5B616274)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (RTE\CMSIS\RTX_Config.c)(0x5C8F09C4)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\rtx_config.o --omf_browse armcmsis_cube01\rtx_config.crf --depend armcmsis_cube01\rtx_config.d)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2582A8)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+F (RTE\CMSIS\RTX_Config.h)(0x5C8F3FC4)()
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList\BufList.c)(0x5DD1C4BC)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\buflist.o --omf_browse armcmsis_cube01\buflist.crf --depend armcmsis_cube01\buflist.d)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList\BufList.h)(0x5DD1C4BC)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList\LinkList.h)(0x5DD1C4BC)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList\LinkList.c)(0x5DD1C4BC)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\linklist.o --omf_browse armcmsis_cube01\linklist.crf --depend armcmsis_cube01\linklist.d)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList\LinkList.h)(0x5DD1C4BC)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\WiFi_WizFi360.c)(0x5DE437B6)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\wifi_wizfi360.o --omf_browse armcmsis_cube01\wifi_wizfi360.crf --depend armcmsis_cube01\wifi_wizfi360.d)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\WiFi_WizFi360.h)(0x5DDEF586)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include\Driver_WiFi.h)(0x5D2582A8)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include\Driver_Common.h)(0x5C8A166C)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB6BCE)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\WizFi360.h)(0x5DE45BB8)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList\BufList.h)(0x5DD1C4BC)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList\LinkList.h)(0x5DD1C4BC)
+I (.\RTE\CMSIS_Driver\WiFi_WizFi360_Config.h)(0x5DD1C4BC)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\WiFi_WizFi360_Os.h)(0x5DD1C4BC)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2582A8)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\WiFi_WizFi360_Os.c)(0x5DD1C4BC)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\wifi_wizfi360_os.o --omf_browse armcmsis_cube01\wifi_wizfi360_os.crf --depend armcmsis_cube01\wifi_wizfi360_os.d)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\WiFi_WizFi360_Os.h)(0x5DD1C4BC)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (.\RTE\CMSIS_Driver\WiFi_WizFi360_Config.h)(0x5DD1C4BC)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2582A8)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\WizFi360.c)(0x5DE437B6)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\wizfi360.o --omf_browse armcmsis_cube01\wizfi360.crf --depend armcmsis_cube01\wizfi360.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEB6BD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB6BD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\WizFi360.h)(0x5DE45BB8)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList\BufList.h)(0x5DD1C4BC)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList\LinkList.h)(0x5DD1C4BC)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (.\RTE\CMSIS_Driver\WiFi_WizFi360_Config.h)(0x5DD1C4BC)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\WizFi360_Serial.h)(0x5DD1C4BC)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\WiFi_WizFi360_Os.h)(0x5DD1C4BC)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F0988)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (.\RTE\_ArmCMSIS_Cube01\RTE_Components.h)(0x5E045450)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x5D2582A8)
+F (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\WizFi360_Serial.c)(0x5DDEF586)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\wizfi360_serial.o --omf_browse armcmsis_cube01\wizfi360_serial.crf --depend armcmsis_cube01\wizfi360_serial.d)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\WizFi360_Serial.h)(0x5DD1C4BC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include\Driver_USART.h)(0x5C8A166C)
+I (C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include\Driver_Common.h)(0x5C8A166C)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB6BCE)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (.\RTE\CMSIS_Driver\WiFi_WizFi360_Config.h)(0x5DD1C4BC)
+F (RTE\CMSIS_Driver\WiFi_WizFi360_Config.h)(0x5DD1C4BC)()
+F (RTE\Device\STM32F411RETx\startup_stm32f411xe.s)(0x5C5B8212)(--cpu Cortex-M4.fp -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include--pd "__UVISION_VERSION SETA 528" --pd "_RTE_ SETA 1" --pd "STM32F411xE SETA 1"--list startup_stm32f411xe.lst --xref -o armcmsis_cube01\startup_stm32f411xe_1.o --depend armcmsis_cube01\startup_stm32f411xe_1.d)
+F (RTE\Device\STM32F411RETx\system_stm32f4xx.c)(0x5C5B8212)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\CMSIS-I.\RTE\CMSIS_Driver-I.\RTE\_ArmCMSIS_Cube01-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\BufList-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include-IC:\Users\Teddy\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE -DUSE_HAL_DRIVER -DSTM32F411xE-o armcmsis_cube01\system_stm32f4xx_1.o --omf_browse armcmsis_cube01\system_stm32f4xx_1.crf --depend armcmsis_cube01\system_stm32f4xx_1.d)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h)(0x5E041BE3)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x5E041B1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (../Drivers/CMSIS/Include/cmsis_version.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_compiler.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5E041B1C)
+I (../Drivers/CMSIS/Include/mpu_armv7.h)(0x5E041B1D)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x5E041BE3)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x5E041BE4)
+I (../Inc/stm32f4xx_hal_conf.h)(0x5E044D91)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5E041BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEB6BD2)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x5E041BE4)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x5E041BE4)

@@ -1,0 +1,11 @@
+armcmsis_cube01\wizfi360_serial.o: C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\WizFi360_Serial.c
+armcmsis_cube01\wizfi360_serial.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+armcmsis_cube01\wizfi360_serial.o: C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS-Driver\2.5.0\WiFi\WizFi360\WizFi360_Serial.h
+armcmsis_cube01\wizfi360_serial.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+armcmsis_cube01\wizfi360_serial.o: C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include\Driver_USART.h
+armcmsis_cube01\wizfi360_serial.o: C:\Users\Teddy\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include\Driver_Common.h
+armcmsis_cube01\wizfi360_serial.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+armcmsis_cube01\wizfi360_serial.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+armcmsis_cube01\wizfi360_serial.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+armcmsis_cube01\wizfi360_serial.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+armcmsis_cube01\wizfi360_serial.o: .\RTE\CMSIS_Driver\WiFi_WizFi360_Config.h
